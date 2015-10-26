@@ -62,6 +62,7 @@ dropbox                                   u:object_r:dropbox_service:s0
 dumpstate                                 u:object_r:dumpstate_service:s0
 dynamic_system                            u:object_r:dynamic_system_service:s0
 econtroller                               u:object_r:radio_service:s0
+edgegestureservice                        u:object_r:edge_gesture_service:s0
 euicc_card_controller                     u:object_r:radio_service:s0
 external_vibrator_service                 u:object_r:external_vibrator_service:s0
 lowpan                                    u:object_r:lowpan_service:s0
